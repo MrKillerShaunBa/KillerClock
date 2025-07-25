@@ -11,4 +11,9 @@ I was drooling at Nixie tube clocks but those arent available in India ;-; Then 
 
 I would be using LED filaments (Adafruit nooodles kind) to create 7 segment displays which would be mounted vertically onto a PCB. I would run it using a ESP 32.
 
+Have started making the schemtatic. Since the 7segment LEDs are wired in a grid pattern, I will use a MAX7219 ic to controll them which is also widely used in commericial matrix displays. I want the numbers to be vertical, therfore I have added 4 2x4 connectors and wired them.
+<img width="995" height="676" alt="image" src="https://github.com/user-attachments/assets/a37fa061-c16b-4d48-ab22-bb190f12a180" />
+<img width="901" height="267" alt="image" src="https://github.com/user-attachments/assets/9b2a24ad-c39e-4463-84a8-af653bb981a3" />
+
+
 **Total time spent: 1h**
