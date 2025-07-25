@@ -15,5 +15,5 @@ Have started making the schemtatic. Since the 7segment LEDs are wired in a grid 
 <img width="995" height="676" alt="image" src="https://github.com/user-attachments/assets/a37fa061-c16b-4d48-ab22-bb190f12a180" />
 <img width="901" height="267" alt="image" src="https://github.com/user-attachments/assets/9b2a24ad-c39e-4463-84a8-af653bb981a3" />
 
-
+The single led in between is for the separation between hours and minutes.
 **Total time spent: 1h**
