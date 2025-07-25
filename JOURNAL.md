@@ -12,11 +12,20 @@ I was drooling at Nixie tube clocks but those arent available in India ;-; Then 
 My inspiration-
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/019a023b-7d9a-46eb-b0ef-908fc45435d1" />
 
-I would be using LED filaments (Adafruit nooodles kind) to create 7 segment displays which would be mounted vertically onto a PCB. I would run it using a ESP 32.
+I would be using LED filaments (Adafruit nooodles kind) to create 7 segment displays which would be mounted vertically onto a PCB. I would run it using a ESP 32 and connect it to the internet for time syncing.
 
 Have started making the schemtatic. Since the 7segment LEDs are wired in a grid pattern, I will use a MAX7219 ic to controll them which is also widely used in commericial matrix displays. I want the numbers to be vertical, therfore I have added 4 2x4 connectors and wired them.
 <img width="995" height="676" alt="image" src="https://github.com/user-attachments/assets/a37fa061-c16b-4d48-ab22-bb190f12a180" />
 <img width="901" height="267" alt="image" src="https://github.com/user-attachments/assets/9b2a24ad-c39e-4463-84a8-af653bb981a3" />
 
 The single led in between is for the separation between hours and minutes.
-**Total time spent: 1h**
+**Total time spent: 4h**
+
+# July 26th: Schematic Complete, onto the more difficult part
+
+Made the schematic. Turns out that the symbol for ESP32 was the wrong one. So I had to import the correct one from the internet.
+
+<img width="1259" height="794" alt="image" src="https://github.com/user-attachments/assets/91ebe9ff-22aa-48a5-abc6-e638f64d8595" />
+<img width="742" height="661" alt="image" src="https://github.com/user-attachments/assets/33e2ac5a-89fa-4e2a-b68a-5adcd7b13724" />
+
+**Total time spent: 2h**
