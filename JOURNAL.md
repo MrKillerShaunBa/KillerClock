@@ -40,5 +40,9 @@ I had placed the connectors too closely at first then I realsied that the led pa
 
 <img width="1092" height="536" alt="image" src="https://github.com/user-attachments/assets/ef3b0fd5-f961-4270-9c72-f8c87e3bba69" />
 
+Wired the MAX7219 with the connectors. Became very complex very fast. Just need to complete the esp32 and well be done.
 
-**Total time spent: 4h**
+<img width="1487" height="199" alt="image" src="https://github.com/user-attachments/assets/7cb7bf63-5d9f-473a-b4a9-034fe353bac8" />
+
+
+**Total time spent: 5h**
