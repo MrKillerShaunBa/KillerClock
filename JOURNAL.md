@@ -36,6 +36,9 @@ I finally started making the schmatic. With a lot of vias, I was able to wire th
 
 <img width="330" height="656" alt="image" src="https://github.com/user-attachments/assets/d1d19673-40d9-44c3-8741-ffc248e50765" />
 
+I had placed the connectors too closely at first then I realsied that the led panels would clash with each other. I i had to remove all the wiring and re-place them with corret distances. Now I have also taken into account the size of the test tubes that will be going over them.
+
+<img width="1092" height="536" alt="image" src="https://github.com/user-attachments/assets/ef3b0fd5-f961-4270-9c72-f8c87e3bba69" />
 
 
 **Total time spent: 4h**
