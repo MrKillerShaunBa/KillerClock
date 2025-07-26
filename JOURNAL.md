@@ -29,9 +29,11 @@ Made the schematic. Turns out that the symbol for ESP32 was the wrong one. So I 
 <img width="742" height="661" alt="image" src="https://github.com/user-attachments/assets/33e2ac5a-89fa-4e2a-b68a-5adcd7b13724" />
 
 Idk why but it took me a lot of time to find the right footprints for all the components, I even had to define a custom footprint for my led filament.
+
 <img width="866" height="183" alt="image" src="https://github.com/user-attachments/assets/e5bbc948-ce58-4a3f-890f-0dd0016e881e" />
 
 I finally started making the schmatic. With a lot of vias, I was able to wire the numeric display.
+
 <img width="330" height="656" alt="image" src="https://github.com/user-attachments/assets/d1d19673-40d9-44c3-8741-ffc248e50765" />
 
 
