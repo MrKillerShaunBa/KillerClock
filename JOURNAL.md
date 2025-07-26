@@ -53,4 +53,9 @@ Added mouse bites, filets and mounting holes. Moving now to making a case for my
 
 <img width="1147" height="430" alt="image" src="https://github.com/user-attachments/assets/77021705-4947-4f32-887e-a2a05b7e88e7" />
 
+<img width="940" height="523" alt="image" src="https://github.com/user-attachments/assets/45ba5c87-bdca-4f31-9cc7-fc3e49bb7c4b" />
+
+<img width="1068" height="594" alt="image" src="https://github.com/user-attachments/assets/4341973d-d3ca-46f4-9b4b-29d439305c8c" />
+
+The male pins on the pcb are wrong here, will fix them in Fusion.
 **Total time spent: 6.5h**
