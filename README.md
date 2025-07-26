@@ -1,1 +1,16 @@
 # KillerClock
+
+# BOM
+| Product | Quantity (MOQ) | Source | Total Price(INR)(includes tax) | Price($)(Converted) | Link |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| MAX7219 8-Digit LED Display Driver IC | 2 | eBhoot | 225 | 2.60 | [here](https://ebhoot.in/shop-2/ics/driver-interface-ic/max7219-8-digit-led-display-driver-ic/) |
+| DC Power Jack Female | 2 | eBhoot | 14.6 | 0.17 | [here](https://ebhoot.in/shop-2/connectors/dc-005-dc-power-jack-female-adapter-pcb-mount-2-1-x-5-5mm/) |
+| ESP32 Development Board | 1 | eBhoot | 377.6 | 4.37 | [here](https://ebhoot.in/shop-2/esp-wifi-boards/esp32-development-board-type-c-usb-ch340c-wifi-bluetooth-ultra-low-power-dual-core/) |
+| 10uF 25V Electrolytic Capacitor | 3 | eBhoot | 5.31 | 0.061 | [here](https://ebhoot.in/shop-2/electronics-components/capacitors/10uf-25v-electrolytic-capacitor/) |
+| 0.1uF Ceramic Capacitor | 5 | eBhoot | 5.3 | 0.061 | [here](https://ebhoot.in/shop-2/electronics-components/capacitors/0-1uf-104-ceramic-capacitor/) |
+| 10K Ohm Resistor | 10 | eBhoot | 5.9 | 0.068 | [here](https://ebhoot.in/shop-2/electronics-components/resistors/10k-ohm-0-25watt-carbon-film-resistor/) |
+| 5v-2A DC adaptor | 1 | eBhoot | 123.9 | 1.43 | [here](https://ebhoot.in/shop-2/power-supply/adapters/5v-2a-dc-adapter-with-led-dual-pin-dc/) |
+| 40×2 Pin Male Berg Strip | 2 | Sharvi | 28.91 | 0.33 | [here](https://sharvielectronics.com/product/40x2-pin-male-berg-strip-break-away-header-right-angle-2-54mm-pitch/) |
+| 2x4 pin female berg strip | 5 | Sharvi | 49.7 | 0.57 | [here](https://sharvielectronics.com/product/2x4-8pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
+| M2x6mm Allen bolt | 10 | Sharvi | 112.7 | 1.30 | [here](https://sharvielectronics.com/product/m2x6mm-allen-socket-head-cap-bolt-mild-carbon-steel/) |
+| M2X3mm Brass Heat Insert | 10 | Sharvi | 33.7 | 0.39 | [here](https://sharvielectronics.com/product/m2x3-mm-brass-heat-set-threaded-round-insert-nut/) |
