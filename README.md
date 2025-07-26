@@ -10,9 +10,14 @@
 | 0.1uF Ceramic Capacitor | 5 | eBhoot | 5.3 | 0.061 | [here](https://ebhoot.in/shop-2/electronics-components/capacitors/0-1uf-104-ceramic-capacitor/) |
 | 10K Ohm Resistor | 10 | eBhoot | 5.9 | 0.068 | [here](https://ebhoot.in/shop-2/electronics-components/resistors/10k-ohm-0-25watt-carbon-film-resistor/) |
 | 5v-2A DC adaptor | 1 | eBhoot | 123.9 | 1.43 | [here](https://ebhoot.in/shop-2/power-supply/adapters/5v-2a-dc-adapter-with-led-dual-pin-dc/) |
+| Ebhoot Shipping | ~ | eBhoot | 90 | 1.04 | ~ |
 | 40×2 Pin Male Berg Strip | 2 | Sharvi | 28.91 | 0.33 | [here](https://sharvielectronics.com/product/40x2-pin-male-berg-strip-break-away-header-right-angle-2-54mm-pitch/) |
+| 40x1 Pin Male Berg Strip | 1 | Sharvi | 6.8 | 0.079 | [here](https://sharvielectronics.com/product/40x1-pin-male-10mm-height-berg-header-straight-2-54mm-pitch/) |
+| 40x1 Pin Female Berg Strip | 1 | Sharvi | 9.7 | 0.11 | [here](https://sharvielectronics.com/product/40x1-pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
 | 2x4 pin female berg strip | 5 | Sharvi | 49.7 | 0.57 | [here](https://sharvielectronics.com/product/2x4-8pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
 | M2x6mm Allen bolt | 10 | Sharvi | 112.7 | 1.30 | [here](https://sharvielectronics.com/product/m2x6mm-allen-socket-head-cap-bolt-mild-carbon-steel/) |
 | M2X3mm Brass Heat Insert | 10 | Sharvi | 33.7 | 0.39 | [here](https://sharvielectronics.com/product/m2x3-mm-brass-heat-set-threaded-round-insert-nut/) |
+| Sharvi Shipping | ~ | Sharvi | 75 | 0.87 | ~ |
+| LED Filament 3V 26mm | 11*3 | Adafruit | ~ | 54.34 | [here](https://www.adafruit.com/product/5505) (Not available in this size anywhere in India; Inclues tax and shipping) |
 | 38x200mm test tubes | 12 | Amazon | 990 | 11.45 | [here](https://amzn.in/d/gJka92f) |
 | 10x75mm test tubes | 6 | Amazon | 99 | 1.15 | [here](https://amzn.in/d/571r95v) |
