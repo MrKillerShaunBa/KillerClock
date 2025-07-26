@@ -15,6 +15,7 @@
 | 40x1 Pin Male Berg Strip | 1 | Sharvi | 6.8 | 0.079 | [here](https://sharvielectronics.com/product/40x1-pin-male-10mm-height-berg-header-straight-2-54mm-pitch/) |
 | 40x1 Pin Female Berg Strip | 1 | Sharvi | 9.7 | 0.11 | [here](https://sharvielectronics.com/product/40x1-pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
 | 2x4 pin female berg strip | 5 | Sharvi | 49.7 | 0.57 | [here](https://sharvielectronics.com/product/2x4-8pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
+| 24 Pin IC Base | 5 | Sharvi | 29.3 | 0.34 | [here](https://sharvielectronics.com/product/24-pin-ic-base-for-dip-24-package/) |
 | M2x6mm Allen bolt | 10 | Sharvi | 112.7 | 1.30 | [here](https://sharvielectronics.com/product/m2x6mm-allen-socket-head-cap-bolt-mild-carbon-steel/) |
 | M2X3mm Brass Heat Insert | 10 | Sharvi | 33.7 | 0.39 | [here](https://sharvielectronics.com/product/m2x3-mm-brass-heat-set-threaded-round-insert-nut/) |
 | Sharvi Shipping | ~ | Sharvi | 75 | 0.87 | ~ |
