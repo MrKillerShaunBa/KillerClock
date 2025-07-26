@@ -58,4 +58,12 @@ Added mouse bites, filets and mounting holes. Moving now to making a case for my
 <img width="1068" height="594" alt="image" src="https://github.com/user-attachments/assets/4341973d-d3ca-46f4-9b4b-29d439305c8c" />
 
 The male pins on the pcb are wrong here, will fix them in Fusion.
-**Total time spent: 6.5h**
+
+Finalized the bom and started a sketch in Fusion 360.
+
+<img width="1386" height="758" alt="image" src="https://github.com/user-attachments/assets/9df20f8c-8353-4065-9c5a-d9cc01bf24ac" />
+
+<img width="1712" height="441" alt="image" src="https://github.com/user-attachments/assets/dea812d7-c120-4287-a616-76bfa7a2584f" />
+
+
+**Total time spent: 7.5h**
