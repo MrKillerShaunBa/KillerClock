@@ -44,5 +44,9 @@ Wired the MAX7219 with the connectors. Became very complex very fast. Just need 
 
 <img width="1487" height="199" alt="image" src="https://github.com/user-attachments/assets/7cb7bf63-5d9f-473a-b4a9-034fe353bac8" />
 
+Finally finished the the schematic. Watched a video about adding mouse bites to combine the different parts. Will do that.
+
+<img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/6518c9b8-332b-4845-aed0-3259f8af1ab5" />
+
 
 **Total time spent: 5h**
