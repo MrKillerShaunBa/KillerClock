@@ -49,7 +49,7 @@ Finally finished the the schematic. Watched a video about adding mouse bites to 
 
 <img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/6518c9b8-332b-4845-aed0-3259f8af1ab5" />
 
-Added mouse bites and mounting holes. Moving now to making a case for my clock.
+Added mouse bites, filets and mounting holes. Moving now to making a case for my clock.
 
 <img width="1147" height="430" alt="image" src="https://github.com/user-attachments/assets/77021705-4947-4f32-887e-a2a05b7e88e7" />
 
