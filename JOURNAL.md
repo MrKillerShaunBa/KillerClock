@@ -103,4 +103,12 @@ Added fillets everywhere.
 
 <img width="1224" height="729" alt="image" src="https://github.com/user-attachments/assets/de5a892e-6f74-4d9a-8593-f35d72717381" />
 
-**Total time spent: 5**
+Added a hole for the power supply.
+
+<img width="668" height="451" alt="image" src="https://github.com/user-attachments/assets/380e53c5-d446-4d12-9ed6-2fc22853b753" />
+
+With that this is ready (except forthe firmware).
+
+<img width="1243" height="831" alt="image" src="https://github.com/user-attachments/assets/5c810e99-b739-4f4c-bc99-4a3f65dc2943" />
+
+**Total time spent: 6h**
