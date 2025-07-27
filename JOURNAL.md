@@ -89,6 +89,10 @@ I have made them in such a way that the hatset inserts are added from the bottom
 Created a top for the case. Added cutouts for the numbers to be inserted from top.
 <img width="1552" height="477" alt="image" src="https://github.com/user-attachments/assets/203e559a-5bfb-4692-8646-0be8a5b71975" />
 
+Created test tubes in fusion :/ Took a while to get it right.
+
+<img width="1247" height="736" alt="image" src="https://github.com/user-attachments/assets/1fe8a119-3656-4d2f-aaa0-8cf174d7b85e" />
 
 
-**Total time spent: 4**
+
+**Total time spent: 5**
