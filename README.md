@@ -4,7 +4,27 @@ This is a Nixie tube-inspired clock made using LED filaments. These filaments ar
 
 I got the inspiration when I chanced upon a [Nixie tube clock](https://nixieshop.com/), which I found very interesting. Since Nixie tubes aren't available reliably in India, I made one using LEDs.
 
+![Full](/assets/Full.png)
 
+## CAD
+
+![Case](/assets/Case.png)
+
+![Case Parts](/assets/Case_sep.png)
+
+![PCB Top](/assets/PCB_top.png)
+
+![PCB Bottom](/assets/PCB_bottom.png)
+
+## PCB
+
+![Schematic](/assets/Schematic.png)
+
+![PCB](/assets/PCB.png)
+
+![PCB Front](/assets/PCB_front.png)
+
+![PCB Back](/assets/PCB_back.png)
 
 # BOM
 | Product | Quantity (MOQ) | Source | Total Price(INR)(includes tax) | Price($)(Converted) | Link |
