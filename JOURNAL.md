@@ -93,6 +93,9 @@ Created test tubes in fusion :/ Took a while to get it right.
 
 <img width="1247" height="736" alt="image" src="https://github.com/user-attachments/assets/1fe8a119-3656-4d2f-aaa0-8cf174d7b85e" />
 
+Added grooves for fitting the set tube.
+
+<img width="1040" height="594" alt="image" src="https://github.com/user-attachments/assets/0872282a-35eb-4841-adff-684d1e7b6429" />
 
 
 **Total time spent: 5**
