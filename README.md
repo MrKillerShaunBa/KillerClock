@@ -17,6 +17,7 @@
 | 2x4 pin female berg strip | 5 | Sharvi | 49.7 | 0.57 | [here](https://sharvielectronics.com/product/2x4-8pin-female-berg-strip-break-away-header-straight-2-54mm-pitch/) |
 | 24 Pin IC Base | 5 | Sharvi | 29.3 | 0.34 | [here](https://sharvielectronics.com/product/24-pin-ic-base-for-dip-24-package/) |
 | M2x6mm Allen bolt | 10 | Sharvi | 112.7 | 1.30 | [here](https://sharvielectronics.com/product/m2x6mm-allen-socket-head-cap-bolt-mild-carbon-steel/) |
+| M2x20mm Allen Bolt | 10 | Sharvi | 163.5 | 1.89 | [here](https://sharvielectronics.com/product/m2x20mm-allen-socket-head-cap-bolt-mild-carbon-steel/) |
 | M2X3mm Brass Heat Insert | 10 | Sharvi | 33.7 | 0.39 | [here](https://sharvielectronics.com/product/m2x3-mm-brass-heat-set-threaded-round-insert-nut/) |
 | Sharvi Shipping | ~ | Sharvi | 75 | 0.87 | ~ |
 | LED Filament 3V 26mm | 11*3 | Adafruit | ~ | 54.34 | [here](https://www.adafruit.com/product/5505) (Not available in this size anywhere in India; Inclues tax and shipping) |
@@ -25,4 +26,4 @@
 | PCB | 5 | | | | | |
 | Case | 1 | Print Legion | | ~5 | Only Shipping |
 
-Total Cost- $86-90
+Total Cost- $88-95
