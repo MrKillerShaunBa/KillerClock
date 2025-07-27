@@ -99,5 +99,8 @@ Added grooves for fitting the set tube.
 
 <img width="1040" height="594" alt="image" src="https://github.com/user-attachments/assets/0872282a-35eb-4841-adff-684d1e7b6429" />
 
+Added fillets everywhere.
+
+<img width="1224" height="729" alt="image" src="https://github.com/user-attachments/assets/de5a892e-6f74-4d9a-8593-f35d72717381" />
 
 **Total time spent: 5**
