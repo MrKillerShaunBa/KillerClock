@@ -5,6 +5,8 @@ description: "Making a Nixie tube-inspired clock but using LED"
 created_at: "2025-07-25"
 ---
 
+### Total Time Spent: 18.5h
+
 # July 25th: Getting to work after I got an Idea!
 
 I was drooling at Nixie tube clocks but those arent available in India ;-; Then I got an idea, why not make it out of LEDs. Turns out, it wasnt so original, people have attempted it [before](https://www.reddit.com/r/electronics/comments/wgo8go/made_another_bigger_led_filament_tube_clock/). But I wasnt able to find any intructions, BOM, or schematic. So I am trying to create my own LED clock.
@@ -111,4 +113,8 @@ With that this is ready (except forthe firmware).
 
 <img width="1243" height="831" alt="image" src="https://github.com/user-attachments/assets/5c810e99-b739-4f4c-bc99-4a3f65dc2943" />
 
-**Total time spent: 6h**
+Wrote the firmware and redied all the files for submission.
+
+<img width="1162" height="892" alt="image" src="https://github.com/user-attachments/assets/21b89db4-a179-424b-8747-91436683c01b" />
+
+**Total time spent: 7h**
