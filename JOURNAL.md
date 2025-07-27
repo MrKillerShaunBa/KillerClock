@@ -67,3 +67,28 @@ Finalized the bom and started a sketch in Fusion 360.
 
 
 **Total time spent: 7.5h**
+
+July 27th: Cadding all the way
+
+Made a base with holes for m2 screws and heatset inserts.
+
+<img width="1472" height="594" alt="image" src="https://github.com/user-attachments/assets/ffaa675f-9642-447d-bbc2-f4192a3ebf27" />
+
+Imported the PCB, aligned and join all pieces. Had to work a lot since the PCB was joined together, as you can see above. So I used split body tool on the faces and then extruded out the rat holes part. 
+
+<img width="1213" height="703" alt="image" src="https://github.com/user-attachments/assets/759b09f5-4edc-4d56-b14e-3b07268ab519" />
+
+Added mounting holes in the bottom for the PCB.
+
+<img width="1594" height="377" alt="image" src="https://github.com/user-attachments/assets/54b46ca7-bb7d-4bb9-9c03-1bf4526119b1" />
+
+I have made them in such a way that the hatset inserts are added from the bottom.
+
+<img width="1362" height="343" alt="image" src="https://github.com/user-attachments/assets/82d02fcb-688e-46fd-aa1e-03ae69d318d5" />
+
+Created a top for the case. Added cutouts for the numbers to be inserted from top.
+<img width="1552" height="477" alt="image" src="https://github.com/user-attachments/assets/203e559a-5bfb-4692-8646-0be8a5b71975" />
+
+
+
+**Total time spent: 4**
