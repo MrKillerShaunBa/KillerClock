@@ -95,6 +95,8 @@ Created test tubes in fusion :/ Took a while to get it right.
 
 Added grooves for fitting the set tube.
 
+<img width="1456" height="434" alt="image" src="https://github.com/user-attachments/assets/689030b9-2698-47c5-81ff-ed9cdc9936e9" />
+
 <img width="1040" height="594" alt="image" src="https://github.com/user-attachments/assets/0872282a-35eb-4841-adff-684d1e7b6429" />
 
 
