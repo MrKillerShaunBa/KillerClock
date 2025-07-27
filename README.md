@@ -1,5 +1,11 @@
 # KillerClock
 
+This is a Nixie tube-inspired clock made using LED filaments. These filaments are strings of micro-LEDs which imitate the look of a tungsten filament. It uses ESP-32, which syncs time with an NTP server using the on-board wifi. It uses a MAX7219 ic to run the 7 segments. Everything is powered using a 5V 2A wall adaptor. There are also Glass test tubes to match the look of a Nixie tube.
+
+I got the inspiration when I chanced upon a [Nixie tube clock](https://nixieshop.com/), which I found very interesting. Since Nixie tubes aren't available reliably in India, I made one using LEDs.
+
+
+
 # BOM
 | Product | Quantity (MOQ) | Source | Total Price(INR)(includes tax) | Price($)(Converted) | Link |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
