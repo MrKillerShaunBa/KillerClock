@@ -49,7 +49,7 @@ I got the inspiration when I chanced upon a [Nixie tube clock](https://nixieshop
 | LED Filament 3V 26mm | 11*3 | Adafruit | ~ | 54.34 | [here](https://www.adafruit.com/product/5505) (Not available in this size anywhere in India; Inclues tax and shipping) |
 | 38x200mm test tubes | 12 | Amazon | 990 | 11.45 | [here](https://amzn.in/d/gJka92f) |
 | 10x75mm test tubes | 6 | Amazon | 99 | 1.15 | [here](https://amzn.in/d/571r95v) |
-| PCB | 5 | JLC PCB | | 17.76 | Used coupon and includes shipping | 
+| PCB | 5 | JLC PCB | | 20 | Used coupon and includes shipping | 
 | Case | 1 | Print Legion | | ~5 | Only Shipping |
 
-Total Cost- $106-110
+Total Cost- $115-120
